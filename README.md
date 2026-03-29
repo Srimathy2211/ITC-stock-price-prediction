@@ -98,9 +98,15 @@ The models were evaluated using:
 
 ## 📈 Results
 
-* Linear Regression performed better than Random Forest
-* It was able to capture non-linear relationships more effectively
-* Predictions were reasonably close to actual values in most cases
+Linear Regression outperformed Random Forest across all evaluation metrics.
+
+- Lower MAE and RMSE indicate smaller prediction errors  
+- Lower MAPE shows more accurate percentage predictions  
+- Higher R² score (~0.996) indicates an excellent fit  
+
+This suggests that the relationship between the features and the target variable is largely linear.
+
+Although Random Forest is capable of capturing complex patterns, it did not perform as well in this case, possibly due to the data exhibiting a simpler linear trend.
 
 ---
 
