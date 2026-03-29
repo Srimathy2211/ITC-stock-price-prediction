@@ -98,7 +98,7 @@ The models were evaluated using:
 
 ## 📈 Results
 
-* Random Forest performed better than Linear Regression
+* Linear Regression performed better than Random Forest
 * It was able to capture non-linear relationships more effectively
 * Predictions were reasonably close to actual values in most cases
 
