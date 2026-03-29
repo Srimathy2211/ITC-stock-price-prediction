@@ -13,6 +13,7 @@ The objective of this project is to analyze historical stock data of ITC and bui
 ## 📂 Dataset
 
 * Source: Kaggle (ITC Stock Data)
+* Dataset Link: https://www.kaggle.com/datasets/hemachandiranmurugan/itc-stock-data
 * Features include:
 
   * Date
